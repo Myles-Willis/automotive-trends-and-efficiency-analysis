@@ -1,5 +1,5 @@
 # automotive-trends-and-efficiency-analysis
-Project based in Python offering some analysis and visualization of vehicle emission data from 1984 to 2022
+Data Science project based in Python offering some analysis and visualization of vehicle emission data from 1984 to 2022
 
 
 The data used is sourced from https://www.fueleconomy.gov/feg/ws/ under the U.S Department of Energy.
